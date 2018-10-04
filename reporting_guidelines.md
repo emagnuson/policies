@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you get yourself safe and report it immediately to the designated point of contact at the event.
+If you believe someone is violating the code of conduct we ask that you get yourself safe and report it immediately to the designated point of contact at the event [ESM how is designated poc known or communicated?].
 
 The following will happen immediately after you report a violation:
  * You and the person violated (if not you) will be taken to a safe, quiet space on the premises.
@@ -28,7 +28,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Kairos Community Organizaers acknowledging receipt as soon as possible, but within 24 hour.
+You will receive an email from the Kairos Community Organizaers acknowledging receipt as soon as possible and within 24 hours.
 
 The Kairos Community Organizers will immediately meet to review the incident and determine:
 
