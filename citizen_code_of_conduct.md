@@ -61,11 +61,11 @@ Unacceptable behavior from any Kairos Community member will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a Kairos Community member engages in unacceptable behavior, the Kairos Community Organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a Kairos Community member engages in unacceptable behavior, Lesley Carmichael and Steve Andersen (the Kairos Community Organizers) may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a Kairos Community Organizer as soon as possible. At a Kairos Community event, please get yourself safe and follow the reporting guidelines here: https://github.com/gokubi/policies/blob/master/reporting_guidelines.md Outside of an in-person event, please contact Lesley Carmichael (luxelife@gmail.com) or Steve Andersen (steve@gokubi.com). Please consider it your responsibilty to report unacceptable behavior as close to the time of occurrence as possible. 
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a Kairos Community Organizer as soon as possible. At a Kairos Community event, please get yourself safe and follow the reporting guidelines here: https://github.com/gokubi/policies/blob/master/reporting_guidelines.md Outside of an in-person event, please contact the Kairos Community Organizers. Please consider it your responsibilty to report unacceptable behavior as close to the time of occurrence as possible. 
 
 Additionally, Kairos Community Organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.
 
